@@ -52,7 +52,7 @@ Rewards will be given on best time
 - Results.
 - Timer.
 
-## **How user will unlock level ?**
+## **How user will unlock 3 to 5 level ?**
 - By only playing and wining on 1 and 2 levels.
 
 ## **Revenue Model**
