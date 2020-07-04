@@ -1,10 +1,11 @@
 # Unity-ball-test-game
-This will be a ball racing game.
-There will 5 Scene having level of difficulty and initially 3,4 and 5 will be locked user have to reach level 5 to unlocked this.
-This 5 Scene will be only on multi player mode.In single player mode, there will be only 1(Default scene).
-In single player mode,the player will start from starting point and finish with different obstacles in between then.There will be no rewards on single mode only obstacles and practice.
-In Multi Player,There will be 4 player connected with Internet.Rule will be same.
-In ***Play with friends*** mode, number of player <= 4.
+- This will be a ball racing game.
+- There will 5 Scene having level of difficulty and initially 3,4 and 5 will be locked user have to reach level 5 to unlocked this.
+- This 5 Scene will be only on multi player mode.In single player mode, there will be only 1(Default scene).
+- In single player mode,the player will start from starting point and finish with different obstacles in between then.There will be no rewards on single mode only obstacles and practice.
+- In Multi Player,There will be 4 player connected with Internet.Rule will be same.
+- In ***Play with friends*** mode, number of player <= 4.
+
 Score will calculated on best time.
 Rewards will be given on best time
 - 1st == 150 coins
@@ -18,22 +19,22 @@ Rewards will be given on best time
 ***1st Version deadline last week of Oct***
 
 ## Tools
-1.Unity
-2.language (C#)
-3.Graphics (assets from adobe illustrator or Blender)
+1. Unity
+2. language (C#)
+3. Graphics (assets from adobe illustrator or Blender)
 
 ## Features
-1.Single Player(Offline mode)
-2.Multi Player(Online mode)
-3.Play with friends
-3.User Profile
-4.Settings(sound,vibrations,etc)
-5.Leader board(Friends and world)
-6.exit
+1. Single Player(Offline mode)
+2. Multi Player(Online mode)
+3. Play with friends
+3. User Profile
+4. Settings(sound,vibrations,etc)
+5. Leader board(Friends and world)
+6. exit
 
 ## Obstacles
-1.Booster(Speed upgrade)
-2.obstacle that will increase the ball size which will slow down the ball speed.
+1. Booster(Speed upgrade)
+2. Obstacle that will increase the ball size which will slow down the ball speed.
 
 ## Score Calculation
 **Starting point and finish point**
